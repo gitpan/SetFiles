@@ -1,0 +1,17 @@
+# This is a template to stick at the head of
+# each set file.
+@INCLUDE b
+@EXCLUDE c
+@OMIT    ab
+@OMIT    ac
+@OMIT    bc
+@OMIT    c
+@OMIT    y
+@OMIT    yy
+@TYPE    type1
+@TYPE    type2
+@OPTION  a1 = 1
+@OPTION  a2 = vala2
+a
+abc
+z

@@ -1,0 +1,8 @@
+AUTOMATIC INSTALLATION
+
+To install, just type
+  perl Makefile.PL
+  make
+  make test
+  make install
+
